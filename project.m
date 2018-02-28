@@ -1,3 +1,5 @@
+mkdir('DATA_INPUT')
+mkdir('DATA_OUTPUT')
 addressIn='DATA_INPUT/'
 addressOut='DATA_OUTPUT/'
 picAdr=dir(addressIn)
